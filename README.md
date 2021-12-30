@@ -2,7 +2,7 @@
 <h3 align="center">Student | Front-End-Developer | Programmer | Computer Science</h3>
 
 
-
+<br><br><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jivanmagare" alt="jivanmagare" /></a> </p>
 
 - 🌱 I’m currently learning **Backend-Development**

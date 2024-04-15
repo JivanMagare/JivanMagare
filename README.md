@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jivan</h1>
-<h3 align="center">Student | Front-End-Developer | Programmer | Computer Science</h3>
+<h3 align="center"> Web Developer | Android Developer | Programmer | Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jivanmagare&label=Profile%20views&color=0e75b6&style=flat" alt="jivanmagare" /> </p>
 
-- 🌱 I’m currently learning **Backend-Development**
 
 - 👨‍💻 All of my projects are available at [https://jivanmagare.github.io/myproject.github.io/index.html](https://jivanmagare.github.io/myproject.github.io/index.html)
 
